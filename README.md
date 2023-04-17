@@ -1,4 +1,4 @@
-# macOS on Gigabyte Z390 Aurous Pro Wifi Motherboard
+# macOS on Gigabyte Z390 Aorus Pro Wifi Motherboard
 <img width="827" alt="Screenshot 2023-04-17 at 14 13 55" src="https://user-images.githubusercontent.com/4694495/232411821-f85882e9-ed10-4b4c-892c-b3f07b25fd3e.png">
 
 
