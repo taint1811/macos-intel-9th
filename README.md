@@ -17,7 +17,7 @@ Model Name      | Gigabyte Z390 Aorus Pro Wifi  | ✅
 CPU              | Intel Core I9 - 9900K CPU | ✅
 Dedicated GPU | MSI ARMOUR RX 580 8GB | ✅
 RAM           | 64GB 3600MHz DDR4 | ✅
-Wi-Fi             | Original has been replaced with Fenvi BCM94360NG | ✅
+Wi-Fi             | Disabled Original Wifi & added Fenvi BCM94360NG | ✅
 Ethernet          | Intel I219-V | ✅
 Audio       | Realtek ALC1220  | ✅
 
