@@ -21,6 +21,8 @@ Wi-Fi             | Original has been replaced with Fenvi BCM94360NG | ✅
 Ethernet          | Intel I219-V | ✅
 Audio       | Realtek ALC1220  | ✅
 
+Buy at: 2020, expensive, due high price of Bitcoin.
+
 <img width="796" alt="Screenshot 2023-04-17 at 14 26 24" src="https://user-images.githubusercontent.com/4694495/232414507-95e14c26-95e2-410d-8be1-807eb254a1d0.png">
 
 ## macOS Update History
