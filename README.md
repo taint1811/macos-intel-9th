@@ -108,6 +108,7 @@ ProcessorType set is <kbd>0</kbd>
 
 ## Credits
 
+- [VNOHackintosh](https://vnohackintosh.com/docs/introduction) for guides.
 - [Dortania](https://dortania.github.io) for their awesome guides.
 - [Apple](https://www.apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and most Kexts.
