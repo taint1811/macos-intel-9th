@@ -3,6 +3,7 @@
 
 
 ## Screenshots
+<img width="1534" alt="Screenshot 2023-04-17 at 14 09 23" src="https://user-images.githubusercontent.com/4694495/232410578-ea8df490-457a-4929-8780-0de678403206.png">
 <img width="392" alt="Screenshot 2023-04-17 at 13 44 24" src="https://user-images.githubusercontent.com/4694495/232405124-9374791e-72d7-4ed0-b7b2-8dd7e74a5d73.png">
 <img width="392" alt="Screenshot 2023-04-17 at 13 44 48" src="https://user-images.githubusercontent.com/4694495/232405188-562b0b97-41fc-440d-ac25-21e814836e96.png">
 <img width="338" alt="Screenshot 2023-04-17 at 13 45 15" src="https://user-images.githubusercontent.com/4694495/232405287-6a155708-614c-4852-9206-1368d05aed1c.png">
