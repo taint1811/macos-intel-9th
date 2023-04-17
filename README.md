@@ -95,10 +95,15 @@ BIOS Setup
 
 #### Changing your SMBIOS data
 
-Download and run [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
-Type 2 and select your **config.plist**, then type 3 and type **Macpro7,1**
+Use 2 options: 
+**iMacPro1,1** or **Macpro7,1**
+
+* Warning: Dont change serial if not need. It affects iMessage/Facetime
 
 #### Changing your CPU name
+
+Should change:
+ProcessorType set is <kbd>0</kbd>
 
 
 ## Credits
