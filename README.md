@@ -108,5 +108,4 @@ Type 2 and select your **config.plist**, then type 3 and type **Macpro7,1**
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and most Kexts.
 - [yusufklncc](https://github.com/yusufklncc) for README template.
 - And anyone else that helped to develop and improve hackintoshing.
-- @CaseySJ for Ryzen 7000 patchs
 - @CorpNewt for Gygabyte patch 
