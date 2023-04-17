@@ -1,5 +1,5 @@
 # macOS on Gigabyte Z390 Aurous Pro Wifi Motherboard
-<img width="392" alt="Screenshot 2023-04-17 at 13 42 28" src="https://user-images.githubusercontent.com/4694495/232404788-40c5b4a4-1a43-40ae-9b27-14546e0a28a5.png">
+<img width="827" alt="Screenshot 2023-04-17 at 14 13 55" src="https://user-images.githubusercontent.com/4694495/232411821-f85882e9-ed10-4b4c-892c-b3f07b25fd3e.png">
 
 
 ## Screenshots
