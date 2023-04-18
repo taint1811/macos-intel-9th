@@ -50,7 +50,7 @@ AMD VT-d
 
 ### Pre-Installation
 BIOS Setup
->  ⚠️ WARNING  
+>  🆘 WARNING  
 > Backup bios before changing or upgrading
 
 
